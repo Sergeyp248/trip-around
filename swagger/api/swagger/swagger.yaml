@@ -43,7 +43,7 @@ paths:
           description: An unexpected error occured.
           schema:
             $ref: "#/definitions/Error"
-  /guiders/{guidername}:
+  /guiders/{guider_id}:
     x-swagger-router-controller: get_products
     get:
       tags:
@@ -53,7 +53,7 @@ paths:
       produces:
       - "application/json"
       parameters:
-      - name: "guidername"
+      - name: "guider_id"
         in: "path"
         description: "The name that needs to be fetched. "
         required: true
@@ -76,7 +76,7 @@ paths:
       produces:
       - "application/json"
       parameters:
-      - name: "guidername"
+      - name: "guider_id"
         in: "path"
         description: "The name that needs to be fetched. "
         required: true
@@ -102,7 +102,7 @@ paths:
       produces:
       - "application/json"
       parameters:
-      - name: "guidername"
+      - name: "guider_id"
         in: "path"
         description: "The name that needs to be deleted"
         required: true
