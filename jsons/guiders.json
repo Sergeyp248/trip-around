@@ -1,0 +1,76 @@
+{
+	"guiders":{
+				"0":{
+					"location":"art exhibitions",
+					"rate":"5/5",
+					"name":"Artur",
+					"age":"28"
+				},
+				"1":{
+					"location":"art exhibitions",
+					"rate":"4/5",
+					"name":"Alex",
+					"age":"24"
+				},
+				"2":{
+					"location":"art exhibitions",
+					"rate":"4/5",
+					"name":"Jon",
+					"age":"30"
+				},
+				"3":{
+					"location":"art exhibitions",
+					"rate":"2/5",
+					"name":"Max",
+					"age":"22"
+				},
+				"4":{
+					"location":"parks",
+					"rate":"4/5",
+					"name":"Tanya",
+					"age":"23"
+				},
+				"5":{
+					"location":"parks",
+					"rate":"4/5",
+					"name":"Borya",
+					"age":"24"
+				},
+				"6":{
+					"location":"parks",
+					"rate":"2/5",
+					"name":"Anton",
+					"age":"26"
+				},
+				"7":{
+					"location":"parks",
+					"rate":"5/5",
+					"name":"Den",
+					"age":"33"
+				},
+				"8":{
+					"location":"clubs",
+					"rate":"4/5",
+					"name":"Vova",
+					"age":"19"
+				},
+				"9":{
+					"location":"clubs",
+					"rate":"1/5",
+					"name":"Gaben",
+					"age":"24"
+				},
+				"10":{
+					"location":"clubs",
+					"rate":"2/5",
+					"name":"Kiril",
+					"age":"23"
+				},
+				"11":{
+					"location":"clubs",
+					"rate":"3/5",
+					"name":"Fedor",
+					"age":"28"
+				}		
+	}
+}
